@@ -1,0 +1,131 @@
+Initialize engine version: 5.4.2f2 (b7e030c65c9b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 5500 (ID=0x1616)
+    Vendor:   Intel
+    VRAM:     2111 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\nathanblanchard\Documents\chemistry\Chemistry Game\Chemistry Game\game_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\nathanblanchard\Documents\chemistry\Chemistry Game\Chemistry Game\game_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\nathanblanchard\Documents\chemistry\Chemistry Game\Chemistry Game\game_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\nathanblanchard\Documents\chemistry\Chemistry Game\Chemistry Game\game_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\nathanblanchard\Documents\chemistry\Chemistry Game\Chemistry Game\game_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\nathanblanchard\Documents\chemistry\Chemistry Game\Chemistry Game\game_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\nathanblanchard\Documents\chemistry\Chemistry Game\Chemistry Game\game_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\nathanblanchard\Documents\chemistry\Chemistry Game\Chemistry Game\game_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\nathanblanchard\Documents\chemistry\Chemistry Game\Chemistry Game\game_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\nathanblanchard\Documents\chemistry\Chemistry Game\Chemistry Game\game_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.065 seconds
+Platform assembly: C:\Users\nathanblanchard\Documents\chemistry\Chemistry Game\Chemistry Game\game_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\nathanblanchard\Documents\chemistry\Chemistry Game\Chemistry Game\game_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.696648 ms
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.464994 ms
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 259.
+Total: 0.824089 ms (FindLiveObjects: 0.017533 ms CreateObjectMapping: 0.017533 ms MarkObjects: 0.166357 ms  DeleteObjects: 0.617105 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.410120 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 274.
+Total: 0.201852 ms (FindLiveObjects: 0.028225 ms CreateObjectMapping: 0.009836 ms MarkObjects: 0.160370 ms  DeleteObjects: 0.002993 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.376763 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 280.
+Total: 0.225373 ms (FindLiveObjects: 0.030363 ms CreateObjectMapping: 0.013257 ms MarkObjects: 0.177904 ms  DeleteObjects: 0.003421 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.550818 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 301.
+Total: 0.218531 ms (FindLiveObjects: 0.028652 ms CreateObjectMapping: 0.013684 ms MarkObjects: 0.171917 ms  DeleteObjects: 0.003421 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.371203 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 310.
+Total: 0.224518 ms (FindLiveObjects: 0.026942 ms CreateObjectMapping: 0.017961 ms MarkObjects: 0.175338 ms  DeleteObjects: 0.003421 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.400712 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 259.
+Total: 0.219386 ms (FindLiveObjects: 0.029935 ms CreateObjectMapping: 0.010263 ms MarkObjects: 0.172344 ms  DeleteObjects: 0.006414 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.387454 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 310.
+Total: 0.227939 ms (FindLiveObjects: 0.027797 ms CreateObjectMapping: 0.013257 ms MarkObjects: 0.182608 ms  DeleteObjects: 0.003848 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.453741 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 259.
+Total: 0.216820 ms (FindLiveObjects: 0.027369 ms CreateObjectMapping: 0.009836 ms MarkObjects: 0.172772 ms  DeleteObjects: 0.006414 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.450320 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 310.
+Total: 0.224946 ms (FindLiveObjects: 0.028652 ms CreateObjectMapping: 0.013257 ms MarkObjects: 0.179187 ms  DeleteObjects: 0.002993 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.512757 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 259.
+Total: 0.204846 ms (FindLiveObjects: 0.021382 ms CreateObjectMapping: 0.010691 ms MarkObjects: 0.165074 ms  DeleteObjects: 0.006842 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.456307 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 310.
+Total: 0.234782 ms (FindLiveObjects: 0.027369 ms CreateObjectMapping: 0.014112 ms MarkObjects: 0.189450 ms  DeleteObjects: 0.003421 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.474268 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 259.
+Total: 0.223663 ms (FindLiveObjects: 0.027797 ms CreateObjectMapping: 0.010263 ms MarkObjects: 0.178759 ms  DeleteObjects: 0.006414 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.425088 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 372.
+Total: 0.320313 ms (FindLiveObjects: 0.032074 ms CreateObjectMapping: 0.014112 ms MarkObjects: 0.265573 ms  DeleteObjects: 0.007697 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.593584 ms
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 259.
+Total: 0.836919 ms (FindLiveObjects: 0.029080 ms CreateObjectMapping: 0.013257 ms MarkObjects: 0.181325 ms  DeleteObjects: 0.612828 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.428082 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 274.
+Total: 0.243762 ms (FindLiveObjects: 0.028652 ms CreateObjectMapping: 0.013684 ms MarkObjects: 0.194155 ms  DeleteObjects: 0.006414 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.764218 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 531.
+Total: 0.352387 ms (FindLiveObjects: 0.032929 ms CreateObjectMapping: 0.016250 ms MarkObjects: 0.292943 ms  DeleteObjects: 0.009408 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.596577 ms
+
+Unloading 79 unused Assets to reduce memory usage. Loaded Objects now: 251.
+Total: 0.887382 ms (FindLiveObjects: 0.029935 ms CreateObjectMapping: 0.015823 ms MarkObjects: 0.171917 ms  DeleteObjects: 0.668851 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2108 -> priority: 1 

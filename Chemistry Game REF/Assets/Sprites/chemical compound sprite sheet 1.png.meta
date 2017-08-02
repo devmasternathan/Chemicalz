@@ -1,0 +1,708 @@
+fileFormatVersion: 2
+guid: c9bfd04d276b647ee8711beef757d476
+timeCreated: 1478667674
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: hydrogen
+    21300002: helium
+    21300004: lithium
+    21300006: beryllium
+    21300008: boron
+    21300010: carbon
+    21300012: nitrogen
+    21300014: oxygen
+    21300016: florine
+    21300018: neon
+    21300020: sodium
+    21300022: magnesium
+    21300024: alumnium
+    21300026: silicon
+    21300028: phosphorus
+    21300030: sulfur
+    21300032: chlorine
+    21300034: argon
+    21300036: potassium
+    21300038: calcium
+    21300040: scandium
+    21300042: titanium
+    21300044: vanadium
+    21300046: chromium
+    21300048: manganese
+    21300050: iron
+    21300052: cobolt
+    21300054: nickel
+    21300056: copper
+    21300058: zinc
+    21300060: gallium
+    21300062: germanium
+    21300064: arsenic
+    21300066: selenium
+    21300068: bormine
+    21300070: krypton
+    21300072: rubidum
+    21300074: strontium
+    21300076: yttrium
+    21300078: zirconium
+    21300080: niobium
+    21300082: molybdedum
+    21300084: tectnitium
+    21300086: ruthenium
+    21300088: rhodium
+    21300090: null
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -3
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hydrogen
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1030
+        width: 104
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: helium
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1030
+        width: 104
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lithium
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1030
+        width: 104
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: beryllium
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1030
+        width: 104
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: boron
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1030
+        width: 104
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carbon
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 1030
+        width: 104
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nitrogen
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1030
+        width: 104
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oxygen
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 1030
+        width: 104
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: florine
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 1030
+        width: 104
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: neon
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 860
+        width: 104
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sodium
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 860
+        width: 104
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: magnesium
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 860
+        width: 104
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alumnium
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 860
+        width: 104
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: silicon
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 860
+        width: 104
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: phosphorus
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 860
+        width: 104
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sulfur
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 860
+        width: 104
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chlorine
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 860
+        width: 104
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: argon
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 860
+        width: 104
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: potassium
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 690
+        width: 104
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: calcium
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 690
+        width: 104
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scandium
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 690
+        width: 104
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: titanium
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 690
+        width: 104
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vanadium
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 690
+        width: 104
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chromium
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 690
+        width: 104
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: manganese
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 690
+        width: 104
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: iron
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 690
+        width: 104
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cobolt
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 690
+        width: 104
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nickel
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 520
+        width: 104
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: copper
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 520
+        width: 104
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zinc
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 520
+        width: 104
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gallium
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 520
+        width: 104
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: germanium
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 520
+        width: 104
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: arsenic
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 520
+        width: 104
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: selenium
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 520
+        width: 104
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bormine
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 520
+        width: 104
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: krypton
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 520
+        width: 104
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rubidum
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 350
+        width: 104
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: strontium
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 350
+        width: 104
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: yttrium
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 350
+        width: 104
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zirconium
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 350
+        width: 104
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: niobium
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 350
+        width: 104
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: molybdedum
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 350
+        width: 104
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tectnitium
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 350
+        width: 104
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ruthenium
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 350
+        width: 104
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rhodium
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 350
+        width: 104
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: null
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 183
+        width: 100
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

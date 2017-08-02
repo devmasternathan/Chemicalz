@@ -1,0 +1,52 @@
+Initialize engine version: 5.4.2f2 (b7e030c65c9b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4000 (ID=0x166)
+    Vendor:   Intel
+    VRAM:     880 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Bugs\Documents\chemistry\Chemistry Game\ChemistryGame_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Bugs\Documents\chemistry\Chemistry Game\ChemistryGame_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Bugs\Documents\chemistry\Chemistry Game\ChemistryGame_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Bugs\Documents\chemistry\Chemistry Game\ChemistryGame_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Bugs\Documents\chemistry\Chemistry Game\ChemistryGame_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Bugs\Documents\chemistry\Chemistry Game\ChemistryGame_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Bugs\Documents\chemistry\Chemistry Game\ChemistryGame_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Bugs\Documents\chemistry\Chemistry Game\ChemistryGame_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Bugs\Documents\chemistry\Chemistry Game\ChemistryGame_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Bugs\Documents\chemistry\Chemistry Game\ChemistryGame_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.072 seconds
+Platform assembly: C:\Users\Bugs\Documents\chemistry\Chemistry Game\ChemistryGame_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Bugs\Documents\chemistry\Chemistry Game\ChemistryGame_Data\Managed\System.dll (this message is harmless)
+desktop: 1600x900 40Hz; virtual: 1600x900 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.877669 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.600218 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 375.
+Total: 0.190397 ms (FindLiveObjects: 0.013094 ms CreateObjectMapping: 0.014155 ms MarkObjects: 0.147575 ms  DeleteObjects: 0.010263 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.442727 ms
+
+Unloading 68 unused Assets to reduce memory usage. Loaded Objects now: 262.
+Total: 0.211631 ms (FindLiveObjects: 0.011678 ms CreateObjectMapping: 0.014155 ms MarkObjects: 0.128465 ms  DeleteObjects: 0.056977 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.354606 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 253.
+Total: 0.152884 ms (FindLiveObjects: 0.012386 ms CreateObjectMapping: 0.008493 ms MarkObjects: 0.125634 ms  DeleteObjects: 0.005308 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.403798 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 262.
+Total: 0.167748 ms (FindLiveObjects: 0.010616 ms CreateObjectMapping: 0.008493 ms MarkObjects: 0.139790 ms  DeleteObjects: 0.008493 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 47c -> priority: 1 

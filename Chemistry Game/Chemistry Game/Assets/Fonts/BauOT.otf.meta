@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 93bb74a126e0b4f0c9480a5d52215cd2
+timeCreated: 1478388490
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Bau OT
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 169c59a7e02fa4d8899d028d66d45eec, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: eb2556dd6d21c434b8dc411bd4a98645
+timeCreated: 1480914413
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - moveSound: {instanceID: 0}
+  - jumpSound: {instanceID: 0}
+  - gameOverSound: {instanceID: 0}
+  - collisionSound: {instanceID: 0}
+  - text: {instanceID: 0}
+  - nametext: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
